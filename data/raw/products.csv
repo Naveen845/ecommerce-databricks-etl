@@ -1,0 +1,51 @@
+product_id,product_name,category,price
+PROD0001,Laptop 1,Electronics,3463.28
+PROD0002,Laptop 2,Electronics,1667.51
+PROD0003,Smartphone 1,Electronics,16588.38
+PROD0004,Smartphone 2,Electronics,25756.39
+PROD0005,Headphones 1,Electronics,13996.02
+PROD0006,Headphones 2,Electronics,24322.18
+PROD0007,Keyboard 1,Electronics,27007.77
+PROD0008,Keyboard 2,Electronics,36195.29
+PROD0009,Mouse 1,Electronics,44130.92
+PROD0010,Mouse 2,Electronics,28852.96
+PROD0011,T-Shirt 1,Fashion,12225.56
+PROD0012,T-Shirt 2,Fashion,23701.35
+PROD0013,Jeans 1,Fashion,20412.29
+PROD0014,Jeans 2,Fashion,4806.86
+PROD0015,Shoes 1,Fashion,32983.24
+PROD0016,Shoes 2,Fashion,17779.45
+PROD0017,Jacket 1,Fashion,20614.0
+PROD0018,Jacket 2,Fashion,43205.45
+PROD0019,Watch 1,Fashion,2803.14
+PROD0020,Watch 2,Fashion,32707.43
+PROD0021,Table 1,Home,32344.37
+PROD0022,Table 2,Home,3124.57
+PROD0023,Chair 1,Home,36437.86
+PROD0024,Chair 2,Home,40049.57
+PROD0025,Lamp 1,Home,5552.52
+PROD0026,Lamp 2,Home,9660.34
+PROD0027,Mixer 1,Home,26860.66
+PROD0028,Mixer 2,Home,7095.1
+PROD0029,Bedsheet 1,Home,9256.05
+PROD0030,Bedsheet 2,Home,23185.14
+PROD0031,Python Book 1,Books,43736.85
+PROD0032,Python Book 2,Books,3861.71
+PROD0033,Java Book 1,Books,40420.31
+PROD0034,Java Book 2,Books,42812.75
+PROD0035,SQL Book 1,Books,4985.65
+PROD0036,SQL Book 2,Books,32642.03
+PROD0037,Data Engineering Book 1,Books,27075.34
+PROD0038,Data Engineering Book 2,Books,836.42
+PROD0039,AI Book 1,Books,4753.81
+PROD0040,AI Book 2,Books,37702.92
+PROD0041,Rice 1,Grocery,11895.34
+PROD0042,Rice 2,Grocery,20380.06
+PROD0043,Oil 1,Grocery,24119.79
+PROD0044,Oil 2,Grocery,43246.05
+PROD0045,Coffee 1,Grocery,45131.9
+PROD0046,Coffee 2,Grocery,8315.39
+PROD0047,Tea 1,Grocery,207.55
+PROD0048,Tea 2,Grocery,19582.05
+PROD0049,Snacks 1,Grocery,46333.25
+PROD0050,Snacks 2,Grocery,39277.95
